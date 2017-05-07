@@ -4,6 +4,9 @@
 ## Calcolare l'impronta di CO2 per un viaggio aereo
 
  * Come utente fornendo una distanza in chilometri voglio ricevere la produzione di CO2 corrispondente ad un viaggio aereo in chilogrammi.
+ Prendendo i valori riportati nella nota in fondo si avrà:
+     - per 100 Km un valore di CO2 pari a 1262.6294 Kg
+     - per 200 Km un valore di CO2 pari a 2525.2588 Kg
 
  * Come utente per indicare distanze ampie voglio poter fornire la distanza utilizzando l'abbreviazione K per le migliaia, ad esempio:
 
@@ -27,7 +30,9 @@
  * Come utente se indico una distanza superiore a 6000 chilometri il numero di passeggeri da contare sull'aereo passa da
    80 a 150.
 
-Consumo di CO2 per passeggero per miglio: 0.254 kg
+# Note
+
+Consumo di CO2 per passeggero per miglio: 0.254 kg (1 miglio è pari a 1.60934 Km)
 
 Il numero medio di passeggeri di un volo aereo è 80.
 
