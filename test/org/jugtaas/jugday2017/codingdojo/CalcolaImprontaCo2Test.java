@@ -10,6 +10,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class CalcolaImprontaCo2Test {
     @Test
     public void oneTest() {
-        assertThat("Just a test sample", false);
+        assertThat("Solo un semplice test", false);
     }
 }
