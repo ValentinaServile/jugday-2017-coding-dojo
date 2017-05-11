@@ -14,7 +14,7 @@ senza dimenticare l'impatto dell'impronta di CO2 che riguarda soprattutto la sce
 
 ## Esercizio
 
-L'obbiettivo è di scrivere una applicazione a riga di comando che consente di prenotare dei voli tenendo conto 
+L'obiettivo è di scrivere una applicazione a riga di comando che consente di prenotare dei voli tenendo conto 
 dell'impronta CO2 dei voli.
 
 I concorrenti hanno a disposizione una libreria già contenuta nel progetto.
