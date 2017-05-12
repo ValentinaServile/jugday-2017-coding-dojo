@@ -39,3 +39,5 @@ La sessione di **Randori** si svolge come segue:
 Per prendere confidenza con il pair programming e il **TDD** si può lavorare su esercizi generici e semplici. Un team
 affiatato e pratico del **TDD**, può lavorare su refactoring di codice di produzione o abbozzare soluzioni su nuovi
 requisiti o problemi riscontrati sul software in produzione.
+
+[Vai al Kata](./docs/KATA.md "CO2CalculatorKata")
