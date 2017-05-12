@@ -7,9 +7,6 @@ import static junit.framework.TestCase.assertNotNull;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.Is.is;
 
-/**
- * Created by mario on 08/05/2017.
- */
 public class VoliTest {
 
     @Test

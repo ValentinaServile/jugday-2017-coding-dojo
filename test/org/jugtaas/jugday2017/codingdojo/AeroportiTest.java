@@ -7,9 +7,6 @@ import static junit.framework.TestCase.assertNotNull;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
-/**
- * Created by mario on 08/05/2017.
- */
 public class AeroportiTest {
 
     @Test
