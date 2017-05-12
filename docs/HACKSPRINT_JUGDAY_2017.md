@@ -33,3 +33,9 @@ Il programma dovrà calcolare l'impronta carbonio di ogni volo selezionato e mos
  
 Ogni feature dovrà essere completa e funzionare correttamente. Saranno assegnati punti in più per la documentazione e gli
 unit test presenti. Un altro parametro di valutazione sarà la qualità del design e la pulizia del codice.
+
+# Note
+
+Consumo di CO2 per passeggero per miglio: 0.254 kg (1 miglio è pari a 1.60934 Km)
+
+Il numero medio di passeggeri di un volo aereo è 80.
