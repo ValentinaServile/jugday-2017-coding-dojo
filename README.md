@@ -39,22 +39,3 @@ La sessione di **Randori** si svolge come segue:
 Per prendere confidenza con il pair programming e il **TDD** si può lavorare su esercizi generici e semplici. Un team
 affiatato e pratico del **TDD**, può lavorare su refactoring di codice di produzione o abbozzare soluzioni su nuovi
 requisiti o problemi riscontrati sul software in produzione.
-
-# User Story
-
-Le **User Story** sono una metodologia per esprimere i requisiti che deve soddisfare un componente software. L'insieme
-di più **User Story** che riguardano un dominio circoscritto si chiamano **Epiche**.
-
-La particolarità delle **User Story** è quella di essere una scomposizione quanto più dettaglata possibile delle
-funzionalità, unendo il carattere discorsivo di una descrizione dal punto di vista dell'utente del software ai dettagli
-puntuali che sono necessari per implementare correttamente la funzionalità.
-
-La formula è semplice e schematica:
-
-    In quanto <un tipo di utente del sistema>, vorrei poter <obbiettivo della user story>, in modo che <risultato che
-    si vuole ottenere e perché>
-
-    Come utente, vorrei poter fornire al metodo la distanza in chilometri, in modo da ottenere in risposta la produzione
-    di CO2 di un aereo che percorre quella distanza.
-
-[User Story](./docs/USER_STORIES.md "Elenco di User Story per cominciare l'esercizio").

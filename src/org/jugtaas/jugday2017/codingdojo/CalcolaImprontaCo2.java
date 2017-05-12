@@ -8,7 +8,4 @@ package org.jugtaas.jugday2017.codingdojo;
  */
 public class CalcolaImprontaCo2 {
 
-    public static void main(String[] args) {
-
-    }
 }
